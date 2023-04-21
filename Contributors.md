@@ -471,3 +471,8 @@
 - Place: Mars
 - Bio: Alien
 - GitHub: [ARCA-KO](https://github.com/arca-ko)
+
+#### Name: [Malavya Raval](https://github.com/MalavyaRaval)
+- Place: San Francisco, America
+- Bio: Graduate Student at San Fracisco State University
+- GitHub: [Malavya Raval](https://github.com/MalavyaRaval)
