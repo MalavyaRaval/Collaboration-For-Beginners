@@ -1,5 +1,10 @@
 # Contributors
 
+#### Name: [Malavya Raval](https://github.com/MalavyaRaval)
+- Place: San Francisco, America
+- Bio: Graduate Student at San Fracisco State University
+- GitHub: [Malavya Raval](https://github.com/MalavyaRaval)
+
 #### Name: [Rachel Dooley](https://github.com/Rae1821)
 - Place: Chattanooga, TN
 - Bio: Budding web developer
